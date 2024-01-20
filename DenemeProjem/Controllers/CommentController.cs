@@ -8,7 +8,6 @@ namespace DenemeProjem.Controllers
         {
             return View();
         }
-
-        //Only commenting here.
+        public int MyProperty { get; set; }
     }
 }
