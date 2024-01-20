@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ozdem\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SEVVAL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozdem\\source\\repos\\DenemeProjem\\DenemeProjem\\DenemeProjem.csproj",
+      "projectUniqueName": "C:\\Users\\SEVVAL\\Source\\Repos\\DenemeProjem\\DenemeProjem\\DenemeProjem.csproj",
       "projectName": "DenemeProjem",
-      "projectPath": "C:\\Users\\ozdem\\source\\repos\\DenemeProjem\\DenemeProjem\\DenemeProjem.csproj",
-      "packagesPath": "C:\\Users\\ozdem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozdem\\source\\repos\\DenemeProjem\\DenemeProjem\\obj\\",
+      "projectPath": "C:\\Users\\SEVVAL\\Source\\Repos\\DenemeProjem\\DenemeProjem\\DenemeProjem.csproj",
+      "packagesPath": "C:\\Users\\SEVVAL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SEVVAL\\Source\\Repos\\DenemeProjem\\DenemeProjem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ozdem\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\SEVVAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
